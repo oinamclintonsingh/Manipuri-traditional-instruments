@@ -11,7 +11,7 @@ h1 {
 
 }
 h2 {
-  font-size: 2rem;
+  font-size: 1rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #750ba7;
@@ -23,32 +23,32 @@ footer {
   font-family: sans-serif;
 }
 
-.l {
+.a {
   background-image: url("./images/Langden_01.png");
 }
 
-.p {
+.b {
   background-image: url("./images/Pena_01.png")
 }
 
-.m {
+.c {
   background-size: 150px;
   background-image: url("./images/Moibubg_01.png");
 }
 
-.k {
+.d {
   background-image: url("./images/Kortan_01.png");
 }
 
-.s {
+.e {
   background-image: url("./images/Sembung_01.png");
 }
 
-.b {
+.f {
   background-image: url("./images/Pung_01.png");
 }
 
-.j {
+.g {
   background-image: url("./images/Jian_01.png");
 }
 
@@ -73,7 +73,7 @@ footer {
 .drum {
   outline: none;
   border: 10px solid #404B69;
-  font-size: 5rem;
+  font-size: 2rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
@@ -83,8 +83,16 @@ footer {
   display: inline-block;
   width: 150px;
   height: 150px;
-  text-align: center;
+  text-align: start;
   margin: 10px;
   background-color: white;
   background-size: 130px;
+}
+.name {
+  outline: none;
+  display: inline-block;
+  width: 160px;
+  height: 160px;
+  text-align: center;
+  margin: 10px;
 }
