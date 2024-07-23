@@ -23,28 +23,9 @@ Welcome to the Manipuri Traditional Instruments Sound Website! This project aims
 - **CSS3**: For styling the website.
 - **JavaScript**: For adding interactivity.
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/manipuri-instruments-sound.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd manipuri-instruments-sound
-    ```
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
-4. Start the server:
-    ```bash
-    npm start
-    ```
-
 ## Usage
 
-- Open your browser and go to `http://localhost:3000`.
+- Open your browser and go to `https://oinamclintonsingh.github.io/Manipuri-traditional-instruments/`.
 - Click on the instrument icons to play their sounds.
 - Explore the information section to learn more about each instrument.
 
@@ -56,15 +37,8 @@ We welcome contributions! Please read our Contributing Guidelines for more detai
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgements
-
-- Special thanks to the cultural experts and musicians who provided valuable insights and recordings of the instruments.
-- Inspired by the rich cultural heritage of Manipur.
 
 ## Contact
 
-For any inquiries, please contact us at [your-email@example.com].
+For any inquiries, please contact us at [oinamclinton.co@gmail.com].
 
----
-
-Feel free to customize this README.md file to better suit your project's needs. Happy coding!
